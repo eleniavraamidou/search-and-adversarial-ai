@@ -30,6 +30,12 @@ The search algorithms are evaluated across randomly generated mazes of increasin
 
 The experiments compare the efficiency and solution quality of different search strategies and heuristic functions.
 
+### Search Algorithm Comparison
+
+Average path length across increasing maze sizes for Dijkstra, Greedy Best-First Search, and A* using Euclidean and Manhattan heuristics.
+
+![Path length comparison](path_length_comparison.png)
+
 ## Adversarial Search
 
 The project also introduces a competitive maze environment in which:
